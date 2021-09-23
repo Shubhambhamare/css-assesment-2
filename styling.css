@@ -1,0 +1,165 @@
+body{
+    background-image: url(https://static1.bigstockphoto.com/6/0/1/large1500/106217303.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#border{
+    border-style: groove;
+    border-color: rgb(rgb(142, 230, 0), green, blue);
+    border-width: 10px;
+}
+.welcome{
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+    color: seashell;
+    margin: 30px 30px 30px 20px;
+    border: 7px solid red;
+    border-radius: 44px;
+    max-width: 353px;
+    height: 104px;
+    padding: 20px;
+    background: black;
+}
+.home-menu{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 400px;
+    color: white;
+    margin: -91px 30px 30px 400px;
+    border: 7px solid red;
+    border-radius: 38px;
+    width: 445px;
+    height: 36px;
+    padding-top: 23px;
+    padding-right: -14px;
+    padding-left: 100px;
+    background: black;
+    text-align-last: auto;
+    position: absolute;
+}
+.contact{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: -207px 30px 100px 1095px;
+    border: 7px solid crimson;
+    border-radius: 44px;
+    width: 333px;
+    height: 100px;
+    padding: 20px;
+    background: black;
+    line-height: 35px;
+}
+ .offer{
+    font-weight: bolder;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    border: grey solid 10px;
+    border-radius: 169px;
+    height: 300px;
+    width: 300px;
+    background: cyan;
+    margin: 30px 30px 30px 30px;
+} 
+
+.Thali{
+    padding-top: 70px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    border: grey solid 4px;
+    border-radius: 200px;
+    height: 216px;
+    width: 266px;
+    background: cyan;
+    margin: 84px;
+    position: relative;
+}
+.forms{
+    position: absolute;
+    right: 430px;
+    top: 216px;
+    border: dashed red 6px;
+    height: 608px;
+    width: 320px;
+    background: white;
+    color: crimson;
+    margin: 2px -79px 2px 2px;
+    padding: 10px 5px 2px 4px;
+    text-align: center;
+}
+.m{
+    height: 50px;
+border: 10px solid crimson;
+background: black;
+color: white;
+border-radius: 28px;
+width: 402px;
+text-align: center;
+font-style: italic;
+font-size: bold;
+padding-top: 15px;
+position: absolute;
+right: 546px;
+top: 851px;
+}
+.menu{
+font-size: large;
+height: 264px;
+width: 270px;
+display: inline-block;
+text-align: center;
+border: 5px solid;
+border-color: green;
+background-color: cyan;
+border-radius: 20px;
+color: rebeccapurple;
+margin-top: 424px;
+margin-right: 120px;
+}
+.parent{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.parent1{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.menu1{
+font-size: large;
+height: 264px;
+width: 270px;
+display: inline-block;
+text-align: center;
+border: 5px solid;
+border-color: green;
+background-color: cyan;
+border-radius: 20px;
+color: rebeccapurple;
+margin-top: 59px;
+margin-right: 120px;
+}
+.menu2{
+font-size: large;
+height: 294px;
+width: 270px;
+display: inline-block;
+text-align: center;
+border: 5px solid;
+border-color: green;
+background-color: cyan;
+border-radius: 20px;
+color: rebeccapurple;
+margin-top: 59px;
+margin-right: 120px;
+}
